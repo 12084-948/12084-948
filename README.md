@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jalaj Jaswal</h1>
 <h3 align="center">A passionate Software developer/ Full-Stack Developer</h3>
-
 <img align="right" alt="coding" width="400" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif" > 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12084-948" alt="12084-948" /></a> </p>
 
 - 📄 My Tech Stack is **MERN Stack**
 
@@ -32,4 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=12084-948&show_icons=true&locale=en" alt="12084-948" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=12084-948&" alt="12084-948" /></p>
+
+
 
